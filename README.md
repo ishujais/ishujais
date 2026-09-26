@@ -2,23 +2,10 @@
 
 ## 👋 Hey there, I'm [Anshuman Jaiswal](https://www.linkedin.com/in/theanshuman/)
 
-*Associate Product Manager @ Tax2win (now part of Groww)* · Fintech · Ex-Backend Engineer
+*Associate Product Manager @ Tax2win* · Fintech · Ex-Backend Engineer
 
 I build products where system logic meets user experience — and ship the tools I wish I had along the way.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theanshuman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theanshuman/)
-[![Email](https://img.shields.io/badge/Email-ishu23296@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishu23296@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Web--Automation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Automation)
-
-</div>
-
----
-
-### 🧭 A little about me
-
-I started as a *backend developer* writing parsers, RPA bots and API integrations for India's tax-filing workflows. Seeing how deeply system logic shapes user experience and business outcomes pulled me into *Product Management*.
-
-Today I own B2C and B2B tax-filing journeys end-to-end, from requirements and user flows to edge cases and launch, working with engineering, design & CA (tax) teams. I lean on *data, experiments and a builder's instinct*: if a problem can be automated or prototyped, I usually end up coding it.
 
 <div align="center">
 
@@ -28,85 +15,30 @@ Today I own B2C and B2B tax-filing journeys end-to-end, from requirements and us
 
 </div>
 
----
 
-### 🛠️ Products I've shipped
+### I am good at
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[![Product Management](https://img.shields.io/badge/Product%20Management-0A66C2?style=for-the-badge&logo=productboard&logoColor=white)](#)
+[![System Design](https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](#)
+[![FinTech](https://img.shields.io/badge/FinTech-1A73E8?style=for-the-badge&logo=stripe&logoColor=white)](#)
+[![Payments](https://img.shields.io/badge/Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)](#)
 
-#### 🧾 ITR-3 Tax Filing Product
-Led feature vision, flow logic, technical requirements and wireframes. Became a key driver of the DIY platform revamp.
+### About me
 
-Product Strategy UX +30% Revenue
+I am a **Technical Product Manager** with 5+ years of experience in technology, including 3+ years in Product Management.
 
-</td>
-<td width="50%" valign="top">
+I work at the intersection of **Product, Engineering and Business**, building scalable products across **FinTech, TaxTech, Payments and Generative AI**.
 
-#### ⚡ UPI Express Checkout
-Analytics showed 73% of users preferred UPI → launched an embedded dynamic Pay QR, removing gateway redirects.
+I enjoy solving complex problems involving **distributed systems, APIs, payment infrastructure, product analytics and AI-powered workflows**.
 
-Funnel Analysis -12% Drop-offs +10% Conversion
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 AI Tax-Assistance Chatbot
-RAG with open-source LLMs over internal guides and tax laws — better query resolution without more support load or costly external models.
-
-RAG LLMs Conversation Design
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔀 Payment Orchestration Platform
-In-house multi-gateway routing for reliability during peak tax-season traffic, cutting transaction failures.
-
-Payments Reliability +18% Revenue
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📄 Form 16 Parser (as engineer)
-Turned manual data entry into an automated self-filing flow for salaried users.
-
-Automation +18% ITR Filings
-
-</td>
-<td width="50%" valign="top">
-
-#### 🦾 B2B RPA Automation (as engineer)
-RPA bots with complex API integrations for high-volume backend operations.
-
-RPA APIs +35% Revenue
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧪 Side projects & open source
-
-| Project | What it does | Stack |
-|---|---|---|
-| [*hisaab*](https://github.com/Web-Automation/hisaab) | Your full financial picture — income, spend, assets, debts and tax — built around the Indian FY and tax rules | JavaScript |
-| [*pg-orchestrator-simulator*](https://github.com/Web-Automation/pg-orchestrator-simulator) | Interactive dashboard simulating payment gateway routing, failovers and circuit breakers | HTML/JS |
-| [*trading_agent*](https://github.com/Web-Automation/trading_agent) | Multi-agent pipeline that turns an NSE/BSE symbol into an intraday BUY/SHORT/SKIP signal | Python |
-| [*pm-docstudio*](https://github.com/Web-Automation/pm-docstudio) | Workspace for PRDs, roadmaps, sprint plans and Gantt charts with export to PDF/Word/PPT | HTML/JS |
-| [*pm-problem-solving-prompt-builder*](https://github.com/Web-Automation/pm-problem-solving-prompt-builder) | Interactive prompt builder to practice PM interview problem-solving | HTML/JS |
-| [*stub*](https://github.com/Web-Automation/stub) | Write text, get a short code; share it — no accounts, no login | JavaScript |
-| [*email-validator*](https://github.com/Web-Automation/email-validator) | Multi-check email address validation for signups and list hygiene | Python |
-| [*Website-Testing-Automation*](https://github.com/Web-Automation/Website-Testing-Automation) | Automated broken-link and site health checks | Python |
-
-<sub>👉 [See all repositories](https://github.com/orgs/Web-Automation/repositories)</sub>
-
----
 
 ### 🧰 Toolkit
 
@@ -129,22 +61,56 @@ RPA APIs +35% Revenue
 
 ---
 
-### 🏆 Recognition
+### What I work on
 
-- 📚 *Published author* — Intelligent Surveillance System Using Machine Learning, CRC Press (Taylor & Francis). ISBN 9781003097181
-- 🐞 *Zomato (Dineout) Bug Bounty* — found a business-logic flaw letting users repeatedly exploit birthday promo coupons
-- 🔬 *NASI Meet, IIT-BHU* — nanotechnology project accepted and presented
+- 💳 Payment Infrastructure & Payment Orchestration
+- 🧾 B2C Tax Filing Platforms
+- 🤖 AI Agents & Agentic Workflows
+- 🏗️ Distributed Systems & Microservices
+- 🔌 API Design & Platform Products
+- 📊 Product Analytics & Conversion Optimization
+- 💰 Payment Economics & MDR Optimization
+- ☁️ Scalable Cloud Infrastructure
 
-### 🎓 Education
+### Things I like building
 
-*B.Tech, Computer Science & Engineering* — Dr. A.P.J. Abdul Kalam Technical University · 2016–2020 · CGPA 7.53 (Hons.)
+**Payment Systems**
 
----
+Designing reliable payment infrastructure with multiple PGs, intelligent routing, idempotency, webhooks, retries and failure handling.
 
-<div align="center">
+**AI Products**
 
-💬 *Open to conversations on fintech, payments, AI in product, and PM craft.*
+Building AI-agent workflows using LLMs, RAG, vector databases and tool-based execution.
 
-[Let's connect on LinkedIn →](https://www.linkedin.com/in/theanshuman/)
+**Platform Products**
 
-</div>
+Designing APIs and backend capabilities that can scale across multiple products, teams and use cases.
+
+### My technical toolkit
+
+`Node.js` `JavaScript` `AWS` `ECS` `Lambda` `SQS` `Redis` `Qdrant`
+
+`REST APIs` `Microservices` `Distributed Systems` `Event-Driven Architecture`
+
+`Payment Gateways` `UPI` `Cards` `Webhooks` `Idempotency`
+
+`LLMs` `RAG` `AI Agents` `Vector Search`
+
+### I write about
+
+- System Design
+- Product Management
+- Distributed Systems
+- Payment Systems
+- Product Analytics
+- AI Agents
+- Engineering lessons applied to product thinking
+
+### Currently learning
+
+- Advanced Product Strategy
+- Product Analytics & Experimentation
+- Distributed Systems
+- System Design
+- AI Agent Architecture
+- LLM Evaluation
