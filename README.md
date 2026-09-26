@@ -9,7 +9,7 @@ I build products where system logic meets user experience — and ship the tools
 
 <div align="center">
 
-| 🚀 ~5 yrs | 🏦 Fintech | 📈 30% revenue uplift | 📉 12% fewer checkout drop-offs |
+| 5 yrs | Fintech | 30% revenue uplift | 12% fewer checkout drop-offs |
 |:---:|:---:|:---:|:---:|
 | Experience | Domain | ITR-3 product launch | UPI express checkout |
 
