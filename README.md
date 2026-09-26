@@ -51,6 +51,4 @@ I enjoy solving complex problems involving **distributed systems, APIs, payment 
 
 [![Skills](https://skillicons.dev/icons?i=py,nodejs,js,html,css,mysql,git,postman&perline=8)](https://skillicons.dev)
 
-*How I work:* Roadmapping · Feature Prioritization · A/B Testing · Funnel Analysis · User Research · Agile · Stakeholder Management · QA Coordination
-
 ---
