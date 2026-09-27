@@ -15,9 +15,9 @@ I enjoy solving complex problems involving **distributed systems, APIs, payment 
 [![Product Management](https://img.shields.io/badge/Product%20Management-0A66C2?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![FinTech](https://img.shields.io/badge/FinTech-1A73E8?style=for-the-badge&logo=stripe&logoColor=white)](#)
 [![Payments](https://img.shields.io/badge/Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](#)
-[![System Design](https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](#)
-[![RPA](https://img.shields.io/badge/RPA-412991?style=for-the-badge&logo=robotframework&logoColor=white)](#)
 [![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![RPA](https://img.shields.io/badge/RPA-412991?style=for-the-badge&logo=robotframework&logoColor=white)](#)
+[![System Design](https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](#)
 [![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 
 ### 🧰 Toolkit
