@@ -4,12 +4,6 @@
 
 *Associate Product Manager @ Tax2win* · Fintech · Ex-Backend Engineer
 
-<div align="center">
-
-| 5 yrs | Fintech | 30% revenue uplift | 12% fewer checkout drop-offs |
-|:---:|:---:|:---:|:---:|
-| Experience | Domain | ITR-3 product launch | UPI express checkout |
-
 </div>
 
 ### About me
