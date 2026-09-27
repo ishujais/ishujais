@@ -6,7 +6,7 @@
 
 ### About me
 
-**Technical Product Manager** with 5+ years of experience in technology, including 3+ years in Product Management. I work at the intersection of **Product, Engineering and Business**, building scalable products across **FinTech, TaxTech, Payments and Generative AI**. 
+**Technical Product Manager** with around 5 years of experience in technology, including 3+ years in Product Management. I work at the intersection of **Product, Engineering and Business**, building scalable products across **FinTech, TaxTech, Payments and Generative AI**. 
 
 I enjoy solving complex problems involving **distributed systems, APIs, payment infrastructure, product analytics and AI-powered workflows**.
 
