@@ -2,8 +2,6 @@
 
 ## 👋 Hey there, I'm [Anshuman Jaiswal](https://www.linkedin.com/in/theanshuman/)
 
-*Associate Product Manager @ Tax2win* · Fintech · Ex-Backend Engineer
-
 </div>
 
 ### About me
