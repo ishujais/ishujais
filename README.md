@@ -15,7 +15,7 @@ I enjoy solving complex problems involving **distributed systems, APIs, payment 
 [![FinTech](https://img.shields.io/badge/FinTech-1A73E8?style=for-the-badge&logo=stripe&logoColor=white)](#)
 [![Payments](https://img.shields.io/badge/Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](#)
 [![System Design](https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](#)
-[![RPA](https://img.shields.io/badge/RPA%20-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![RPA](https://img.shields.io/badge/RPA-412991?style=for-the-badge&logo=robotframework&logoColor=white)](#)
 [![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 [![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
